@@ -39,6 +39,7 @@ Note: *Only information that could reasonably have been available at or around t
 **Steps:**
 1. Clone this repository
 ```
+git clone https://github.com/TounseA/credit-portfolio-optimisation.git
 ```
 
 2. Optional: Install dependencies
